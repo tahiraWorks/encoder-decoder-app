@@ -2,7 +2,7 @@
 
 One Streamlit app with two separate sections.
 
-**Live app:** PASTE_YOUR_STREAMLIT_LINK_HERE
+**Live app:**(https://encoder-decoder-app-yo8yu9qi5msnpzh6z43ayx.streamlit.app/)
 
 | Section | Model | Type | Language | Dataset | Task |
 |---|---|---|---|---|---|
